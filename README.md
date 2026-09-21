@@ -1,5 +1,6 @@
 # [GCPR 2026] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction
 [Hongyu Zhou](https://zero-4869.github.io), [Zorah Lähner](https://geometryinml.cs.uni-bonn.de/team/zorah/)
+
 [![Papers with Code: #3 on DTU](https://paperswithcode.co/api/v1/papers/2608.06117/leaderboard-badge.svg?eval=25687&live=1)](https://paperswithcode.co/api/v1/papers/2608.06117/leaderboard-badge-link?eval=25687)
 
 ## Installation
