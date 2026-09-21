@@ -4,7 +4,7 @@
 
 ## Installation
 The repository is built on [PGSR](https://github.com/zju3dv/PGSR). To install, run
-'''
+```
 https://github.com/Zero-4869/ConfidenceMattersGS.git
 cd ConfidenceMattersGS
 conda create -n ConfMatters python=3.10
@@ -12,11 +12,11 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0
 pip install -r requirements.txt
 pip install submodules/diff-plane-rasterization
 pip install submodules/simple-knn
-'''
+```
 
 ## Datasets
 The data folder follows
-'''
+```
 Datasets
 |- dtu_dataset
 |   |-dtu
@@ -34,17 +34,17 @@ Datasets
 |   |   |-Points
 |   |   |   |-stl
 |   |   |-ObsMask
-'''
+```
 
 ## Training and Evaluation
-'''
+```
 # DTU 
 python run_dtu.sh
 # Tanks and Temples
 python run_tnt.sh
 # Shiny Blender
 python run_refnerf.sh
-'''
+```
 ## Acknowledgements
 The Gaussian Splatting is based on [PGSR](https://github.com/zju3dv/PGSR). The geometric priors are adopted from [VGGT](https://github.com/facebookresearch/vggt). We thank all the authors for their great work and repos.
 
