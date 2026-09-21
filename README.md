@@ -1,6 +1,6 @@
 # [GCPR 2026] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction
 [Hongyu Zhou](https://zero-4869.github.io), [Zorah Lähner](https://geometryinml.cs.uni-bonn.de/team/zorah/)
-
+[![PwC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/your-paper-title/task-name-on-dataset)](https://paperswithcode.co/benchmark/dtu?task=3d-understanding&eval=25687)
 
 ## Installation
 The repository is built on [PGSR](https://github.com/zju3dv/PGSR). To install, run
