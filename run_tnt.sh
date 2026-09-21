@@ -1,1 +1,1 @@
-python scripts/run_tnt_sota.py none vggt rn vggt 5 0.1
+python scripts/run_tnt_sota.py dynamic vggt hybrid vggt 5 0.1

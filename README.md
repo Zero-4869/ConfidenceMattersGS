@@ -39,11 +39,11 @@ Datasets
 ## Training and Evaluation
 ```
 # DTU 
-python run_dtu.sh
+sh run_dtu.sh
 # Tanks and Temples
-python run_tnt.sh
+sh run_tnt.sh
 # Shiny Blender
-python run_refnerf.sh
+sh run_refnerf.sh
 ```
 ## Acknowledgements
 The Gaussian Splatting is based on [PGSR](https://github.com/zju3dv/PGSR). The geometric priors are adopted from [VGGT](https://github.com/facebookresearch/vggt). We thank all the authors for their great work and repos.

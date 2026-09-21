@@ -1,2 +1,2 @@
-python scripts/run_refnerf_sota.py dynamic vggt rn vggt
+python scripts/run_refnerf_sota.py dynamic vggt hybrid vggt
 
